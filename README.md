@@ -1,5 +1,5 @@
-### Developed by : Ashwin Kumar S
-### Ref.No : 212222240013
+### Developed by : Berjin Shabeck
+### Ref.No : 212222240018
 
 ## AIM
 To develop a Python program to evaluate the given policy.
