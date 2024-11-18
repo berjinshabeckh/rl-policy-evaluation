@@ -1,5 +1,8 @@
-### Developed by : Berjin Shabeck
-### Ref.No : 212222240018
+# Policy Evaluation
+
+# Date: 04/09/2024
+# Name: H.Berjin Shabeck
+# Reg no: 212222240018
 
 ## AIM
 To develop a Python program to evaluate the given policy.
